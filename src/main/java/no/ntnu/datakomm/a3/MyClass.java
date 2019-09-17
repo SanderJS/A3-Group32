@@ -12,6 +12,7 @@ public class MyClass {
 
     private static void feature2() {
         // TODO - print "Feature #2"
+        System.out.println("feature #2");
     }
 
     private static void feature3() {
