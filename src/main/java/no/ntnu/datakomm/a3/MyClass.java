@@ -1,5 +1,7 @@
 package no.ntnu.datakomm.a3;
 
+import java.sql.SQLOutput;
+
 /**
  * Implement the "features", place your code where the TODO tags are. 
  * Read description of assignment A3 to understand the details.
@@ -16,6 +18,7 @@ public class MyClass {
 
     private static void feature3() {
         // TODO - print "Feature #3"
+        System.out.println("Feature 3#");
     }
 
     private static void feature4() {
