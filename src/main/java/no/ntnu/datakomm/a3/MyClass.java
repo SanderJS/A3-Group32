@@ -9,11 +9,12 @@ import java.sql.SQLOutput;
 public class MyClass {
 
     private static void feature1() {
-        // TODO - print "Feature #1"
+       System.out.println("Feature #1");
     }
 
     private static void feature2() {
         // TODO - print "Feature #2"
+        System.out.println("feature #2");
     }
 
     private static void feature3() {
